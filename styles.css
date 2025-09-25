@@ -126,6 +126,7 @@ header.scrolled {
     align-items: center;
     position: relative;
     overflow: hidden;
+    padding-top: 120px;
 }
 
 .hero-bg {
@@ -739,5 +740,6 @@ footer {
     background-color: var(--dark-accent);
 
 }
+
 
 
