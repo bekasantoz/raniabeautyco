@@ -39,6 +39,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
+    max-height: fit-content;
     z-index: 1000;
     background-color: rgba(10, 13, 10, 0.9);
     padding: 20px 0;
@@ -736,4 +737,5 @@ footer {
 
 .contact-section .contact-form button:hover {
     background-color: var(--dark-accent);
+
 }
