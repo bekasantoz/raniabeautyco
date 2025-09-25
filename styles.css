@@ -67,8 +67,8 @@ header.scrolled {
 }
 
 .logo img {
-    width: 400px;
-    height: 235px;
+    width: 300px;
+    height: 200px;
 }
 
 .logo2 img {
@@ -739,3 +739,4 @@ footer {
     background-color: var(--dark-accent);
 
 }
+
