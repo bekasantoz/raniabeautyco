@@ -42,7 +42,7 @@ header {
     max-height: fit-content;
     z-index: 1000;
     background-color: rgba(10, 13, 10, 0.9);
-    padding: 20px 0;
+    padding: 10px 0;
     transition: all 0.3s ease;
 }
 
@@ -739,4 +739,5 @@ footer {
     background-color: var(--dark-accent);
 
 }
+
 
